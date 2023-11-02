@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://www.jsohn.app](https://www.jsohn.app)
 
+- 👨‍💼 I am actively pursuing an Internship / Entry Level Position as a Software Engineer!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sohnjustin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohnjustin" height="30" width="40" /></a>
